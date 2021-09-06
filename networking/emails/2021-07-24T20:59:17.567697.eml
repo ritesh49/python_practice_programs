@@ -1,0 +1,14 @@
+Return-Path: <riteshramchandani123@gmail.com>
+Received: from [127.0.0.1] by hubblers.local
+ (Mock SMTP -- https://github.com/flaviovs/mock-smtp) with SMTP
+ id 2021-07-24T20:59:17.567697.eml
+ for <ritesh@hubbler.mobi>; Sat, 24 Jul 2021 20:59:17 +0530
+Envelope-To: <ritesh@hubbler.mobi>
+Delivery-Date: Sat, 24 Jul 2021 20:59:17 +0530
+
+
+From: riteshramchandani123@gmail.com
+To: ['ritesh@hubbler.mobi']
+Subject: SMTP e-mail test
+
+This is a test e-mail message.
